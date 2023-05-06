@@ -3,6 +3,6 @@ public class App {
         System.out.println("Hello, World!");
         // add extra modifications
         System.out.println("Some modifications from Abderafie Chairi");
-        
+
     }
 }
